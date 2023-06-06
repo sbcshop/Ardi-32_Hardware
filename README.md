@@ -1,1 +1,21 @@
-# ArdiFi_Hardware
+# ArdiFi_Hardware 
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/ArdiPi_Ardi-32_1.jpg?v=1679286826">
+
+ArdiFi the ultimate Arduino Uno alternative packed with powerful specs and exciting features.
+
+The Ardi32 variant is powered by an **ESP-32 module** with _Wi-Fi_ and _Bluetooth_ capabilities. It also comes in an Arduino Uno form factor and is perfect for building IoT systems, thanks to its extensive GPIO pins and communication interfaces. Ardi32 is supported by a vibrant community of makers, developers, and enthusiasts.
+
+In this **github repo** you will find **hardware files** for **ArdiFi**.
+
+## Repository Contents
+
+* [**/Design Data**](https://github.com/sbcshop/ArdiFi_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom view
+* [**/Mecahnical Data**](https://github.com/sbcshop/ArdiFi_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension files, 3D and STEP files
+* [**ArdiFi Getting Started**](https://github.com/sbcshop/ArdiFi_Software) - This repo contains ArdiFi Getting Started Guide and Sample Codes.
+
+## Related Products
+   * [Ardi UHF Shield](https://tinyurl.com/5ezdm7r2) - Ardi UHF Shield
+   * [Ardi Display Shield](https://shop.sb-components.co.uk/products/ardi-display-shield-for-arduino-uno?_pos=1&_sid=c915b53b5&_ss=r) - Ardi Display Shield
+   * [Ardi RFID Shield](https://tinyurl.com/mv7addc2) - Ardi RFID Shield 
+   * [Ardi Relay Shield](https://shop.sb-components.co.uk/products/ardi-relay-shield-for-arduino-uno?_pos=1&_sid=79d82d29c&_ss=r) - Ardi Relay Shield
+   * [Ardi Series](https://shop.sb-components.co.uk/products/ardi-series-arduino-uno-alternative?variant=40572595699795) - Arduino Uno form factor variants based on Raspberry Pi Pico W
