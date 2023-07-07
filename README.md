@@ -14,11 +14,11 @@ In this **github repo** you will find **hardware files** for **ArdiFi**.
 * [**ArdiFi Getting Started**](https://github.com/sbcshop/ArdiFi_Software) - This repo contains ArdiFi Getting Started Guide and Sample Codes.
 
 ## Related Products
-   * [Ardi UHF Shield](https://tinyurl.com/5ezdm7r2) - Ardi UHF Shield
-   * [Ardi Display Shield](https://shop.sb-components.co.uk/products/ardi-display-shield-for-arduino-uno?_pos=1&_sid=c915b53b5&_ss=r) - Ardi Display Shield
-   * [Ardi RFID Shield](https://tinyurl.com/mv7addc2) - Ardi RFID Shield 
-   * [Ardi Relay Shield](https://shop.sb-components.co.uk/products/ardi-relay-shield-for-arduino-uno?_pos=1&_sid=79d82d29c&_ss=r) - Ardi Relay Shield
-   * [Ardi Series](https://shop.sb-components.co.uk/products/ardi-series-arduino-uno-alternative?variant=40572595699795) - Arduino Uno form factor variants based on Raspberry Pi Pico W
+   * [Ardi UHF Shield](https://shop.sb-components.co.uk/products/ardi-uhf-shield-for-arduino-uno) - Ardi UHF Shield
+   * [Ardi Display Shield](https://shop.sb-components.co.uk/products/ardi-display-shield-for-arduino-uno) - Ardi Display Shield
+   * [Ardi RFID Shield](https://shop.sb-components.co.uk/products/ardi-rfid-shield-for-arduino-uno) - Ardi RFID Shield 
+   * [Ardi Relay Shield](https://shop.sb-components.co.uk/products/ardi-relay-shield-for-arduino-uno) - Ardi Relay Shield
+   * [ArdiPi](https://shop.sb-components.co.uk/collections/latest-collections/products/ardipi-uno-r3-alternative-board-based-on-pico-w) - Arduino Uno form factor variants based on Raspberry Pi Pico W
 
 ## Product License
 
