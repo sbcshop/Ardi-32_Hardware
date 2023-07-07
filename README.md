@@ -1,4 +1,4 @@
-# ArdiFi_Hardware 
+# Ardi-32_Hardware 
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/files/ARDI32banner.jpg?v=1688463937">
 
 ArdiFi the ultimate Arduino Uno alternative packed with powerful specs and exciting features.
