@@ -3,15 +3,15 @@
 
 ArdiFi the ultimate Arduino Uno alternative packed with powerful specs and exciting features.
 
-The Ardi32 variant is powered by an **ESP-32 module** with _Wi-Fi_ and _Bluetooth_ capabilities. It also comes in an Arduino Uno form factor and is perfect for building IoT systems, thanks to its extensive GPIO pins and communication interfaces. Ardi32 is supported by a vibrant community of makers, developers, and enthusiasts.
+The Ardi32 variant is powered by an **ESP-32 module** with _Wi-Fi_ and _Bluetooth_ capabilities. It also comes in an Arduino Uno form factor and is perfect for building IoT systems, thanks to its extensive GPIO pins and communication interfaces. Ardi-32 is combo of Arduino and ESP32 which is supported by a vibrant community of makers, developers, and enthusiasts.
 
-In this **github repo** you will find **hardware files** for **ArdiFi**.
+In this **github repo** you will find **hardware files** for **Ardi-32**.
 
 ## Repository Contents
 
 * [**/Design Data**](https://github.com/sbcshop/ArdiFi_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom view
 * [**/Mecahnical Data**](https://github.com/sbcshop/ArdiFi_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension files, 3D and STEP files
-* [**ArdiFi Getting Started**](https://github.com/sbcshop/ArdiFi_Software) - This repo contains ArdiFi Getting Started Guide and Sample Codes.
+* [**ArdiFi Getting Started**](https://github.com/sbcshop/ArdiFi_Software) - This repo contains Ardi-32 Getting Started Guide and Sample Codes.
 
 ## Related Products
    * [Ardi UHF Shield](https://shop.sb-components.co.uk/products/ardi-uhf-shield-for-arduino-uno) - Ardi UHF Shield
