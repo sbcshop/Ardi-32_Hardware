@@ -1,7 +1,7 @@
 # Ardi-32_Hardware 
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/files/ARDI32banner.jpg?v=1688463937">
 
-ArdiFi the ultimate Arduino Uno alternative packed with powerful specs and exciting features.
+Ardi-32 the ultimate Arduino Uno alternative packed with powerful specs and exciting features.
 
 The Ardi32 variant is powered by an **ESP-32 module** with _Wi-Fi_ and _Bluetooth_ capabilities. It also comes in an Arduino Uno form factor and is perfect for building IoT systems, thanks to its extensive GPIO pins and communication interfaces. Ardi-32 is combo of Arduino and ESP32 which is supported by a vibrant community of makers, developers, and enthusiasts.
 
