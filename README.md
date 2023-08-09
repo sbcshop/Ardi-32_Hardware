@@ -11,7 +11,7 @@ In this **github repo** you will find **hardware files** for **Ardi-32**.
 
 * [**/Design Data**](https://github.com/sbcshop/ArdiFi_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom view
 * [**/Mecahnical Data**](https://github.com/sbcshop/ArdiFi_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension files, 3D and STEP files
-* [**ArdiFi Getting Started**](https://github.com/sbcshop/ArdiFi_Software) - This repo contains Ardi-32 Getting Started Guide and Sample Codes.
+* [**Ardi-32 Getting Started**](https://github.com/sbcshop/ArdiFi_Software) - This repo contains Ardi-32 Getting Started Guide and Sample Codes.
 
 ## Related Products
    * [Ardi UHF Shield](https://shop.sb-components.co.uk/products/ardi-uhf-shield-for-arduino-uno) - Ardi UHF Shield
